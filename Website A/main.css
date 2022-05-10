@@ -1,0 +1,22 @@
+html,body{
+    margin:0px;
+    background-image:linear-gradient(to bottom right,turquoise, magenta);
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+h1{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 75%;
+    position: absolute;
+    -webkit-text-stroke: 1px white;
+}
+
+.globe{
+    text-align: center;
+    margin-top: 150px;
+}
+.globe_image{
+    height: 84vh;
+}
